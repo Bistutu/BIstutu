@@ -1,6 +1,6 @@
 ### Hi 👋 I am ThinkStu.
 ---
-一名在校大学生，热爱技术,热爱开源项目。
+在校大学生，热爱技术，热爱开源项目。
 
 <!--
 **Bistutu/BIstutu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

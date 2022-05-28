@@ -1,6 +1,6 @@
 ### Hi 👋 I am ThinkStu.
 ---
-在校大学生，热爱技术，热爱开源项目。
+在校大学生，热爱开源。
 
 <!--
 **Bistutu/BIstutu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bistutu)

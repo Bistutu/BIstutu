@@ -1,1 +1,1 @@
-### Hi 👋 I am ThinkStu. nice to meet you~
+### Hi! 👋 I'm ThinkStu. Nice to meet you!
